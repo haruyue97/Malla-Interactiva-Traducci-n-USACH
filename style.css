@@ -66,8 +66,8 @@ h1 {
 /* ✅ Asignatura aprobada */
 .card.aprobada {
   background-color: #2ecc71 !important;
-  color: white !important;
-  border-color: #27ae60;
+  color: #fff !important;
+  border-left-color: #27ae60;
 }
 
 /* 🔒 Asignatura bloqueada */
