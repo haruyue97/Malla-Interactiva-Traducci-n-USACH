@@ -73,7 +73,7 @@ h1 {
 /* 🔒 Asignatura bloqueada */
 .card.bloqueada {
   opacity: 0.4;
-  cursor: not-allowed;
+  cursor: Allowed;
 }
 
 /* 🟦 Colores por idioma */
